@@ -7,5 +7,6 @@ This repository contains the submission for my internship tasks under Prodigy In
 
 - [Task 1 - House Price Prediction](./Task-1/)
 - [Task 2 - Customer Segmentation](./Task-2/)
+- [Task 3 - Image Classification cats vs dogs](./Task_3/)
 
 ----
